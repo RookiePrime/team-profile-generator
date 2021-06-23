@@ -1,0 +1,34 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "U of T Full Stack Dev Bootcamp Challenge 10. A Node.js app developed with a test-driven approach.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RookiePrime/team-profile-generator.git"
+  },
+  "keywords": [
+    "node",
+    "jest",
+    "bootstrap",
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "RookiePrime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RookiePrime/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/RookiePrime/team-profile-generator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
