@@ -27,7 +27,9 @@
     "url": "https://github.com/RookiePrime/team-profile-generator/issues"
   },
   "homepage": "https://github.com/RookiePrime/team-profile-generator#readme",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
   "devDependencies": {
     "jest": "^27.0.5"
   }
