@@ -46,3 +46,5 @@ diverse, inclusive, and healthy community.
 
 ## License
 This software is offered under the MIT License. For more information on conditions of use, [follow this link.](https://opensource.org/licenses/MIT).
+
+[Link to a video if app functionality](https://drive.google.com/file/d/1o526Fr05H_klTvZzPqXw4ieXlJharo6A/view)
